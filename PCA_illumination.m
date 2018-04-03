@@ -62,7 +62,7 @@ for i= 1: 18*68
     end
 end
 
-class= mode(KNN);
+class= mode(KNN)   %get mode of classes
 
 
 
