@@ -3,7 +3,7 @@
 %these are cropped images of 21 different subjects under 68 different illuminations.
 %each image has already been converted to a vector.
 
-load('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Data/illumination.mat');
+load('/...../illumination.mat');
 %create train data
 train= zeros(1920, 18, 68);
 test= zeros(1920, 3, 68);
