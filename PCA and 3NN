@@ -1,0 +1,4 @@
+First working implementation of PCA and Nearest Neighbour for Facial Recognition.
+The data is available in a 3D matrix(illum(1920, 21, 68)). 
+These are cropped images of 68 different subjects under 21 different illuminations.
+Each image has already been converted to a vector
