@@ -1,5 +1,10 @@
 %created functions for dimensionality reduction using LDA and classification using KNN
 %accuracy metric also calculated
+%the data is available in a 3d matrix as illum(1920, 21, 68).
+%these are cropped images of 21 different subjects under 68 different illuminations.
+%each image has already been converted to a vector.
+%KNN is a non parametric technique.
+%18 images of each person used for training. 3 images of each person used for testing.
 
 clear;
 
