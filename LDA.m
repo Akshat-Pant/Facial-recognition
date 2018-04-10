@@ -1,3 +1,6 @@
+%created functions for dimensionality reduction using LDA and classification using KNN
+%accuracy metric also calculated
+
 clear;
 
 load('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Data/illumination.mat');
