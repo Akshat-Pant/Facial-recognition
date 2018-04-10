@@ -8,7 +8,7 @@
 
 clear;
 
-load('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Data/illumination.mat');
+load('/....../illumination.mat');
 %create train data and test data
 %train= illum(:, 1: 18, 1: 68);
 %test= illum(:, 19: 21, 1: 68);
