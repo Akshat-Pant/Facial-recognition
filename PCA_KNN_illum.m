@@ -1,9 +1,7 @@
 clear;
 
-addpath('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Code/PCA.m');
-addpath('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Code/LDA.m');
-addpath('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Code/KNN.m');
-addpath('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Code/bayesClassifier.m');
+addpath('/..../PCA.m');
+addpath('/..../KNN.m');
 
 load('/Users/akshatpant/Desktop/UMD/Sem 2/CMSC498M (ML)/Project1/Data/illumination.mat');
 
