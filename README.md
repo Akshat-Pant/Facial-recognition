@@ -1,6 +1,9 @@
 # Face-recognition
-Facial recognition implemented by dimensionality reduction (Principal Component and Linear Discriminant Analysis). 
-Bayes Classifier and Nearest Neighbour algorithms implemented for recognition.
+Facial recognition implemented by dimensionality reduction (Principal Component and Linear Discriminant Analysis).</br>
+The PCA_illum file is the first attempt at this project. It trains the model using PCA and KNN and classifes a single test sample.</br>
+The files PCA, LDA, KNN and bayesClassifier have methods/functions for the same techniques.</br>
+The dataset illumination.mat contains images for 68 subjects with each subject having 21 different illumination images.
+
 
 ## PCA
 PCA stands for Principal Component Analysis. It is a technique used in Machine Learning to attain dimensionality reduction.
